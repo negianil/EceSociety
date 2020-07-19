@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/EceSociety/static/js/main.91c7d613.chunk.js",
+    "main.js.map": "/EceSociety/static/js/main.91c7d613.chunk.js.map",
+    "runtime-main.js": "/EceSociety/static/js/runtime-main.e603e23a.js",
+    "runtime-main.js.map": "/EceSociety/static/js/runtime-main.e603e23a.js.map",
+    "static/js/2.ae3603ab.chunk.js": "/EceSociety/static/js/2.ae3603ab.chunk.js",
+    "static/js/2.ae3603ab.chunk.js.map": "/EceSociety/static/js/2.ae3603ab.chunk.js.map",
+    "index.html": "/EceSociety/index.html",
+    "precache-manifest.468f6566adea51c35b34a32c2676afd4.js": "/EceSociety/precache-manifest.468f6566adea51c35b34a32c2676afd4.js",
+    "service-worker.js": "/EceSociety/service-worker.js",
+    "static/js/2.ae3603ab.chunk.js.LICENSE.txt": "/EceSociety/static/js/2.ae3603ab.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e603e23a.js",
+    "static/js/2.ae3603ab.chunk.js",
+    "static/js/main.91c7d613.chunk.js"
+  ]
+}
