@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/EceSociety/static/js/main.6b879c0c.chunk.js",
-    "main.js.map": "/EceSociety/static/js/main.6b879c0c.chunk.js.map",
+    "main.js": "/EceSociety/static/js/main.9a31393d.chunk.js",
+    "main.js.map": "/EceSociety/static/js/main.9a31393d.chunk.js.map",
     "runtime-main.js": "/EceSociety/static/js/runtime-main.e603e23a.js",
     "runtime-main.js.map": "/EceSociety/static/js/runtime-main.e603e23a.js.map",
     "static/js/2.f5b16b54.chunk.js": "/EceSociety/static/js/2.f5b16b54.chunk.js",
     "static/js/2.f5b16b54.chunk.js.map": "/EceSociety/static/js/2.f5b16b54.chunk.js.map",
     "index.html": "/EceSociety/index.html",
-    "precache-manifest.3855fc2e8e5e3c1c55a64fe66eb682e7.js": "/EceSociety/precache-manifest.3855fc2e8e5e3c1c55a64fe66eb682e7.js",
+    "precache-manifest.7a67849b2dc7ebfc569453eb65568fc1.js": "/EceSociety/precache-manifest.7a67849b2dc7ebfc569453eb65568fc1.js",
     "service-worker.js": "/EceSociety/service-worker.js",
     "static/js/2.f5b16b54.chunk.js.LICENSE.txt": "/EceSociety/static/js/2.f5b16b54.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e603e23a.js",
     "static/js/2.f5b16b54.chunk.js",
-    "static/js/main.6b879c0c.chunk.js"
+    "static/js/main.9a31393d.chunk.js"
   ]
 }
